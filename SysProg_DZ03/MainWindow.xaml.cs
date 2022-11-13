@@ -61,7 +61,7 @@ namespace SysProg_DZ03
             thread4.Start();
             thread5.Start();
 
-
+            Console.Writeline("something");
         }
 
     }
