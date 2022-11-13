@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "89b705be-1448-4107-822e-f3058bcc05c4": {
+      "ProjectGuid": "89b705be-1448-4107-822e-f3058bcc05c4",
+      "DisplayName": "SysProg_DZ03",
+      "ColorIndex": 0
+    },
+    "2a5b9daf-c274-4e0c-8c20-0f537e5f8211": {
+      "ProjectGuid": "2a5b9daf-c274-4e0c-8c20-0f537e5f8211",
+      "DisplayName": "ConsoleApp1",
+      "ColorIndex": 1
+    },
+    "3eee3906-e974-43f7-90c9-b46939362024": {
+      "ProjectGuid": "3eee3906-e974-43f7-90c9-b46939362024",
+      "DisplayName": "SysProg_DZ03_2",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

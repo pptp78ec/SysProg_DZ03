@@ -1,0 +1,15 @@
+C:\VS_Projects\SysProg_DZ03\SysProg_DZ03_2\bin\Debug\net6.0\SysProg_DZ03_2.exe
+C:\VS_Projects\SysProg_DZ03\SysProg_DZ03_2\bin\Debug\net6.0\SysProg_DZ03_2.deps.json
+C:\VS_Projects\SysProg_DZ03\SysProg_DZ03_2\bin\Debug\net6.0\SysProg_DZ03_2.runtimeconfig.json
+C:\VS_Projects\SysProg_DZ03\SysProg_DZ03_2\bin\Debug\net6.0\SysProg_DZ03_2.dll
+C:\VS_Projects\SysProg_DZ03\SysProg_DZ03_2\bin\Debug\net6.0\ref\SysProg_DZ03_2.dll
+C:\VS_Projects\SysProg_DZ03\SysProg_DZ03_2\bin\Debug\net6.0\SysProg_DZ03_2.pdb
+C:\VS_Projects\SysProg_DZ03\SysProg_DZ03_2\obj\Debug\net6.0\SysProg_DZ03_2.csproj.AssemblyReference.cache
+C:\VS_Projects\SysProg_DZ03\SysProg_DZ03_2\obj\Debug\net6.0\SysProg_DZ03_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\VS_Projects\SysProg_DZ03\SysProg_DZ03_2\obj\Debug\net6.0\SysProg_DZ03_2.AssemblyInfoInputs.cache
+C:\VS_Projects\SysProg_DZ03\SysProg_DZ03_2\obj\Debug\net6.0\SysProg_DZ03_2.AssemblyInfo.cs
+C:\VS_Projects\SysProg_DZ03\SysProg_DZ03_2\obj\Debug\net6.0\SysProg_DZ03_2.csproj.CoreCompileInputs.cache
+C:\VS_Projects\SysProg_DZ03\SysProg_DZ03_2\obj\Debug\net6.0\SysProg_DZ03_2.dll
+C:\VS_Projects\SysProg_DZ03\SysProg_DZ03_2\obj\Debug\net6.0\ref\SysProg_DZ03_2.dll
+C:\VS_Projects\SysProg_DZ03\SysProg_DZ03_2\obj\Debug\net6.0\SysProg_DZ03_2.pdb
+C:\VS_Projects\SysProg_DZ03\SysProg_DZ03_2\obj\Debug\net6.0\SysProg_DZ03_2.genruntimeconfig.cache
