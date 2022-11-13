@@ -9,6 +9,7 @@ namespace SysProg_DZ03
     /// <summary>
     /// Interaction logic for MainWindow.xaml
     /// </summary>
+    // this is my comment
     struct HorseResult
     {
         public string Horsename { set; get; }
